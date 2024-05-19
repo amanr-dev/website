@@ -25,7 +25,7 @@
 					href: '/docs/advanced/security/gdpr'
 				},
 				{
-					label: 'SOC 2 (Coming soon)',
+					label: 'SOC 2',
 					href: '/docs/advanced/security/soc2'
 				},
 				{
@@ -50,8 +50,8 @@
 					href: '/docs/advanced/security/encryption'
 				},
 				{
-					label: 'Two-Factor authentication',
-					href: '/docs/advanced/security/2fa'
+					label: 'Multi-Factor authentication',
+					href: '/docs/advanced/security/mfa'
 				},
 				{
 					label: 'HTTPS',
